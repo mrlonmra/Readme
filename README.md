@@ -18,14 +18,13 @@ I'm a Systems Development Student, Bachelor of Business Administration, Junior D
 
 ## 
 
-
 <div>
   <a href="https://github.com/mrlonmra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrlonmra&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true"/>  
 </div>
   
 ##  
-  
+
 <div dir="auto"><br>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
