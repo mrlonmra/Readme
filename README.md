@@ -23,6 +23,6 @@ I'm a Systems Development Student, Bachelor of Business Administration, Junior D
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrlonmra&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"/>
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlonmra&amp;layout=compact&amp;langs_count=16&amp;theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlonmra&amp;layout=compact&amp;langs_count=16&amp;theme=dracula"/>
     
 </div>
