@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there, I'm Marlon Gomes! 👋
 
-<!--
-**mrlonmra/mrlonmra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Development Student, Bachelor of Business Administration, Junior Developer, based in Goiás, Brazil!
 
-Here are some ideas to get you started:
+• 🔭 I'm currently looking for my first job in the technology field, even though I'm already a professional in the area autonomously;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🌱 I'm currently learning some fundamentals of computer vision, machine learning, cloud virtualization, among others;
+
+• 💬 Ask me about Data Analysis, Linux Servers, VOIP Linux Systems, Front-End, Back-End and Sport Shooting (the last one is serious);
+
+• 📫 Get in touch as soon as possible: mrlon.mra@gmail.com or preferably Telegram;
+
+• 😄 Pronouns: 🦆 Duck Foot;
+
+• ⚡ Fun fact: One of the functions of the duck foot format is to reduce the cost of swimming by maximizing propulsion and minimizing resistance. Nickname I got in college due to the shape of my flat feet. 😄
+
+• 📔 I'm reading: The universe of programming - William Oliveira 📚
