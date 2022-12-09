@@ -16,6 +16,13 @@ I'm a Systems Development Student, Bachelor of Business Administration, Junior D
 
 • 📔 I'm reading: The universe of programming - William Oliveira 📚
 
+##
+
+• CERTICAÇÕES COMPLEMENTARES BOOTCAMP:<BR>
+* Formação Cybersecurity Specialist<BR>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://hermes.digitalinnovation.one/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png"><img align="center" alt="Rafa-React" height="150" width="150" src="https://hermes.digitalinnovation.one/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png" style="max-width: 100%;"></a>  
+
+
 ## 
 
 <div>
