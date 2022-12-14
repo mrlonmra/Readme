@@ -6,7 +6,7 @@ I'm a Systems Development Student, Bachelor of Business Administration, Junior D
 
 • 🌱 I'm currently learning some fundamentals of computer vision, machine learning, cloud virtualization, among others;
 
-• 💬 Ask me about, JavaScript, Node.JS, REACT and Sport Shooting (the last one is serious);
+• 💬 Ask me about, JavaScript, REACT, Node.js and Sport Shooting (the last one is serious);
 
 • 📫 Get in touch as soon as possible: mrlon.mra@gmail.com or preferably Telegram;
 
