@@ -6,7 +6,7 @@ I'm a Systems Development Student, Bachelor of Business Administration, Junior D
 
 • 🌱 I'm currently learning some fundamentals of computer vision, machine learning, cloud virtualization, among others;
 
-• 💬 Ask me about, Linux, VOIP, HTML, MYSQL, REACT, Node.js and Sport Shooting (the last one is serious);
+• 💬 Ask me about: PHP, Laravel, Html, CSS, Bootstrap, jQuery, Linux, VOIP, HTML, MYSQL, REACT, Node.js and Sport Shooting (the last one is serious);
 
 • 📫 Get in touch as soon as possible: mrlon.mra@gmail.com or preferably Telegram;
 
