@@ -2,8 +2,6 @@ Hi there, I'm Marlon Gomes! 👋
 
 I'm a Systems Development Student, Bachelor of Business Administration, Junior Developer, based in Goiás, Brazil!
 
-• 🔭 I'm currently looking for my first job in the technology field, even though I'm already a professional in the area autonomously;
-
 • 🌱 I'm currently learning some fundamentals of computer vision, machine learning, cloud virtualization, among others;
 
 • 💬 Ask me about: PHP, Laravel, Html, CSS, Bootstrap, jQuery, Linux, VOIP, HTML, MYSQL and Sport Shooting (the last one is serious);
