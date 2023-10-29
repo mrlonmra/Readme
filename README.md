@@ -1,6 +1,6 @@
 Hi there, I'm Marlon Gomes! 👋
 
-I'm a Systems Development Student, Bachelor of Business Administration, Junior Developer, based in Goiás, Brazil!
+I am a Systems Development Student, Bachelor in Business Administration, Full Developer, based in Goiás, Brazil!
 
 • 🌱 I'm currently learning some fundamentals of computer vision, machine learning, cloud virtualization, among others;
 
