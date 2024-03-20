@@ -16,13 +16,20 @@ I am a Systems Development Student, Bachelor in Business Administration, Full De
 
 ##
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlonmra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+##
+
 • CERTICAÇÕES COMPLEMENTARES BOOTCAMP:<BR>
 * Formação Cybersecurity Specialist<BR>
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://hermes.digitalinnovation.one/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png"><img align="center" alt="Rafa-React" height="150" width="150" src="https://hermes.digitalinnovation.one/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png" style="max-width: 100%;"></a>  
+
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://hermes.digitalinnovation.one/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png"><img align="center" alt="Rafa-React" height="150" width="150" src="https://hermes.digitalinnovation.one/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png" style="max-width: 100%;"></a>
+
+
 
 
 ## 
-
 
  
 <div dir="auto"><br>
